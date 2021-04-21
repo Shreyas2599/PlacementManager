@@ -1,0 +1,28 @@
+.card
+{
+  width: 25;
+}
+.card-header
+{
+  text-align: center;
+  color: white;
+  background:royalblue !important;
+
+}
+.row
+{
+  justify-content: center;
+}
+.container
+{
+  margin-top: 10%;
+}
+.btn
+{
+  width: 100%;
+
+}
+.form-text
+{
+  margin-right: 5rem;
+}
